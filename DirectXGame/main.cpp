@@ -14,7 +14,7 @@ void SetupPipelineState(PipelineState& pipelineState, RootSignature& rs, Shader&
 // Windowsアプリでのエントリーポイント(main関数)
 int WINAPI WinMain(_In_ HINSTANCE, _In_opt_ HINSTANCE, _In_ LPSTR, _In_ int) {
 
-	KamataEngine::Initialize(L"LE3C_28_リ_ヨン");
+	KamataEngine::Initialize(L"LE3C_17_トウ_カグン");
 
 	// DirectXCommonインスタンスの取得
 	DirectXCommon* dxCommon = DirectXCommon::GetInstance();
